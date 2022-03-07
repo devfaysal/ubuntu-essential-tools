@@ -2,7 +2,13 @@
 
 ## Design Tools
 - gThumb (Basic image editor)
-- inkscape (Adobe Illustrator/Photoshop alternate) 
+- GIMP
+- inkscape (Adobe Illustrator/Photoshop alternative) 
+
+## 3D Design
+- blender
+- OpenScad
+- FreeCAD
 
 ## Code Editor
 - VS Code
