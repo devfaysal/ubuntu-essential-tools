@@ -33,6 +33,11 @@
     - Install using Terminal: ```sudo snap install --classic code```  
     - Installation guide: https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/
 
+## Database Manager
+1. [**Beekeeper Studio**](https://www.beekeeperstudio.io/)
+    - Install using Terminal: ```sudo snap install beekeeper-studio```  
+    - Installation guide: https://docs.beekeeperstudio.io/installation/#linux-installation
+
 ## Screen recording
 1. [**OBS Studio**](https://obsproject.com/)
     - Install using Terminal: ```sudo apt install obs-studio```  
