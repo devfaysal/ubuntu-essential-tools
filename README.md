@@ -16,8 +16,9 @@
 - FreeCAD
 
 ## Code Editor
-- VS Code
-- Atom
+1. [**VS Code**](https://code.visualstudio.com/)
+    - Install using Terminal: ```sudo snap install --classic code```  
+    - Installation guide: https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/
 
 ## Screen recording
 - OBS Studio
