@@ -10,7 +10,7 @@
     - Installation guide: https://www.atechtown.com/install-inkscape-on-ubuntu/  
     - Video Tutorial: [Inkscape Tutorials by TJ FREE](https://www.youtube.com/playlist?list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv)
 
-## 3D Design
+## 3D Design Tools
 1. [**blender**](https://www.blender.org/)    
     - Install using Terminal: ```sudo apt install blender```  
     - Installation guide: https://linuxhint.com/install-blender-3d/
@@ -18,6 +18,15 @@
 2. [**OpenScad**](https://openscad.org/)  
     - Install using Terminal: ```sudo apt-get install openscad```  
     - Installation guide: https://openscad.org/downloads.html  
+
+## Document/Spreadsheet/Presentation
+1. [**LibreOffice**](https://www.libreoffice.org/) (Microsoft office alternative)    
+    - Install using Terminal: Default with Ubuntu  
+    - Installation guide: https://www.libreoffice.org/download/download/
+   
+2. [**Evince**](https://wiki.gnome.org/Apps/Evince) (Pdf Reader) 
+    - Install using Terminal: Default with Ubuntu  
+    - Installation guide: https://wiki.gnome.org/Apps/Evince  
 
 ## Code Editor
 1. [**VS Code**](https://code.visualstudio.com/)
