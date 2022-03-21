@@ -24,8 +24,12 @@ You may add any tool you used but missing in this list.
 1. [**LibreOffice**](https://www.libreoffice.org/) (Microsoft office alternative)    
     - Install using Terminal: Default with Ubuntu  
     - Installation guide: https://www.libreoffice.org/download/download/
+
+2. [**WPS Office**](https://www.wps.com/) (Microsoft office alternative)    
+    - Install using Terminal: ```sudo snap install wps-office```  
+    - Installation guide: https://www.wps.com/office/linux/
    
-2. [**Evince**](https://wiki.gnome.org/Apps/Evince) (Pdf Reader) 
+3. [**Evince**](https://wiki.gnome.org/Apps/Evince) (Pdf Reader) 
     - Install using Terminal: Default with Ubuntu  
     - Installation guide: https://wiki.gnome.org/Apps/Evince  
 
