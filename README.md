@@ -11,9 +11,13 @@
     - Video Tutorial: [Inkscape Tutorials by TJ FREE](https://www.youtube.com/playlist?list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv)
 
 ## 3D Design
-- blender
-- OpenScad
-- FreeCAD
+1. [**blender**](https://www.blender.org/)    
+    - Install using Terminal: ```sudo apt install blender```  
+    - Installation guide: https://linuxhint.com/install-blender-3d/
+   
+2. [**OpenScad**](https://openscad.org/)  
+    - Install using Terminal: ```sudo apt-get install openscad```  
+    - Installation guide: https://openscad.org/downloads.html  
 
 ## Code Editor
 1. [**VS Code**](https://code.visualstudio.com/)
@@ -21,19 +25,31 @@
     - Installation guide: https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/
 
 ## Screen recording
-- OBS Studio
+1. [**OBS Studio**](https://obsproject.com/)
+    - Install using Terminal: ```sudo apt install obs-studio```  
+    - Installation guide: https://linuxhint.com/install_obs_ubuntu/
 
 ## Remote Desktop Client
-- Remmina
+1. [**Remmina**](https://remmina.org/)
+    - Install using Terminal: ```sudo snap install remmina```  
+    - Installation guide: https://remmina.org/how-to-install-remmina/
 
 ## Version Control
-- Git
+1. [**Git**](https://git-scm.com/)
+    - Install using Terminal: ```sudo apt install git```  
+    - Installation guide: https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04
 
 ## FTP Client
-- FileZilla
+1. [**FileZilla**](https://filezilla-project.org/)
+    - Install using Terminal: ```sudo apt install filezilla```  
+    - Installation guide: https://linuxways.net/ubuntu/how-to-install-filezilla-on-ubuntu-20-04-lts/
 
 ## API Client
-- Insomnia
+1. [**Insomnia**](https://insomnia.rest/)
+    - Install using Terminal: ```sudo snap install insomnia```  
+    - Installation guide: https://docs.insomnia.rest/insomnia/install/
 
 ## Password Manager
-- Bitwarden
+1. [**Bitwarden**](https://bitwarden.com/)
+    - Install using Terminal: ```sudo snap install bitwarden```  
+    - Installation guide: https://bitwarden.com/help/getting-started-desktop/
