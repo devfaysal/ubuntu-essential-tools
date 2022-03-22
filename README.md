@@ -5,8 +5,12 @@ You may add any tool you used but missing in this list.
 1. **gThumb** (Basic image editor)  
     - Install using Terminal: ```sudo apt install gthumb```  
     - Installation guide: https://linuxhint.com/install-gthumb-ubuntu/
+
+2. [**GIMP**](https://www.gimp.org/) (Photoshop alternative)  
+    - Install using Terminal: ```sudo snap install gimp```  
+    - Installation guide: https://snapcraft.io/install/gimp/ubuntu
    
-2. [**Inkscape**](https://inkscape.org/) (Adobe Illustrator/Photoshop alternative)  
+3. [**Inkscape**](https://inkscape.org/) (Illustrator alternative)  
     - Install using Terminal: ```sudo apt install inkscape```  
     - Installation guide: https://www.atechtown.com/install-inkscape-on-ubuntu/  
     - Video Tutorial: [Inkscape Tutorials by TJ FREE](https://www.youtube.com/playlist?list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv)
