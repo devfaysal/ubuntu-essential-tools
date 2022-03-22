@@ -72,3 +72,7 @@ You may add any tool you used but missing in this list.
 1. [**Bitwarden**](https://bitwarden.com/)
     - Install using Terminal: ```sudo snap install bitwarden```  
     - Installation guide: https://bitwarden.com/help/getting-started-desktop/
+
+2. [**KeePassXC**](https://keepassxc.org/)
+    - Install using Terminal: ``` sudo apt install keepassxc ```  
+    - Installation guide: https://keepassxc.org/download/
