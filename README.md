@@ -80,3 +80,9 @@ You may add any tool you used but missing in this list.
 2. [**KeePassXC**](https://keepassxc.org/)
     - Install using Terminal: ``` sudo apt install keepassxc ```  
     - Installation guide: https://keepassxc.org/download/
+
+## Utility
+1. **Terminator** (Multiple Terminals In One Window)  
+    - Install using Terminal: ```sudo apt install terminator```  
+    - Installation guide: https://linuxways.net/centos/how-to-install-terminator-on-ubuntu-20-04/
+
