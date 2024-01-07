@@ -56,6 +56,7 @@ You may add any tool you used but missing in this list.
 1. [**Flameshot**](https://flameshot.org/)
     - Install using Terminal: ```sudo apt install flameshot```  
     - Installation guide: https://flameshot.org/#download
+    - Fix Wayland Conflict in 22.04: https://askubuntu.com/questions/1410848/ubuntu-22-04-flameshot-not-working
 
 ## Remote Desktop Client
 1. [**Remmina**](https://remmina.org/)
